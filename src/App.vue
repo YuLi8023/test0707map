@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      <span>ssssss</span>
+    <span>ssssss</span>
 
   </div>
 </template>
@@ -10,16 +10,18 @@
 
 export default {
   name: 'App',
-  components: {}
-}
+  components: {},
+};
 </script>
 
 <style>
-html,body,#app {
-  position:relative;
-  width:100%;
-  height:100%;
-  margin:0;
+html,
+body,
+#app {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0;
 
 }
 </style>
